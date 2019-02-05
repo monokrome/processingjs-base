@@ -1,6 +1,8 @@
 About the project
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/monokrome/processingjs-base.svg)](https://greenkeeper.io/)
+
 This project extends my web-base-frontend project with a fullscreen processing.js script set
 up in public/processing/initial.pde. Get started fast with the following commands - after
 node and npm have been installed:
